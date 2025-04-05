@@ -250,11 +250,11 @@ public:
         }
 
         // Độ rộng cột
-        int w1 = 12;  // MaChuNuoi
-        int w2 = 30;  // ThongTinThuCung
-        int w3 = 12;  // NgayTiem
-        int w4 = 15;  // LoaiVacXin
-        int w5 = 50;  // GhiChu
+        int w1 = 12; 
+        int w2 = 30;  
+        int w3 = 12;  
+        int w4 = 15;  
+        int w5 = 50;  
 
         // In dòng trên cùng của bảng
         cout << "+" << string(w1, '-') << "+" << string(w2, '-') << "+" 
@@ -316,11 +316,11 @@ public:
         }
 
         // Độ rộng cột
-        int w1 = 12;  // MaChuNuoi
-        int w2 = 30;  // ThongTinThuCung
-        int w3 = 12;  // NgayTiem
-        int w4 = 15;  // LoaiVacXin
-        int w5 = 50;  // GhiChu
+        int w1 = 12;
+        int w2 = 30; 
+        int w3 = 12; 
+        int w4 = 15;  
+        int w5 = 50; 
 
         if (dsTimKiem.empty()) {
             cout << "Khong tim thay lich tiem nao cho ma chu nuoi: " << maChuNuoi << endl;
@@ -391,12 +391,11 @@ public:
         }
 
         // Độ rộng cột
-        int w1 = 12;  // MaChuNuoi
-        int w2 = 30;  // ThongTinThuCung
-        int w3 = 12;  // NgayTiem
-        int w4 = 15;  // LoaiVacXin
-        int w5 = 50; // GhiChu
-
+        int w1 = 12;  
+        int w2 = 30; 
+        int w3 = 12; 
+        int w4 = 15;  
+        int w5 = 50; 
         // In dòng trên cùng của bảng
         cout << "+" << string(w1, '-') << "+" << string(w2, '-') << "+" 
              << string(w3, '-') << "+" << string(w4, '-') << "+" << string(w5, '-') << "+" << endl;
