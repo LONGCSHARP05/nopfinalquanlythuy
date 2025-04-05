@@ -85,7 +85,7 @@ int main() {
     int luaChon;
     hieuUngVien();   // Hiệu ứng viền mở đầu
         hienThiBanner(); // Hiển thị banner hệ thống
-        hienThiMenu();   // Hiển thị menu chức năng // Hiển thị giao diện người dùng
+        hienThiMenu();   // Hiển thị menu chức năng
         
         vector <PhieuKhamBenh> danhSachPhieu;
         // Đọc file vào vector
