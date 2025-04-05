@@ -8,17 +8,7 @@
 #include "DMThuoc.hpp"
 
 using namespace std;
-// sử dụng file cpp để mở rộng các định nghĩa, hàm.. từ file hpp
 
-
-/*3. Thống kê doanh thu theo ngày tháng năm*/
-
-
-// đọc dữ liệu, và in vào vector
-// cắt chuỗi ngày khám thành năm, năm tháng, năm tháng ngày. Và nhóm chúng theo 3 vector 
-// tính doanh thu theo năm: duyệt từng vector nếu cùng năm thì cộng dồn doanh thu năm đó
-
-// Struct lưu doanh thu theo ngày/tháng/năm
 struct DoanhThu {  //tạo struct doanh thu để lưu doanh thu, có thuộc tính ngày và tongTien
     string ngay;
     int tongTien;
