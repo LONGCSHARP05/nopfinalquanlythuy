@@ -15,8 +15,8 @@ class PhieuKhamBenh : public DMChuNuoi, public DMThuoc
 private:
     string soPhieu;
     string ngayKham;
-    string maChuNuoi;  // Chỉ lưu mã chủ nuôi, không kế thừa toàn bộ lớp DMChuNuoi
-    string maThuoc;    // Chỉ lưu mã thuốc, không kế thừa toàn bộ lớp DMThuoc
+    string maChuNuoi; 
+    string maThuoc;   
     int soLuongThuoc;
     string trieuChung;
     string chanDoan;
