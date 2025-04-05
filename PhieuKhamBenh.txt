@@ -1,0 +1,280 @@
+PKB001
+2023-11-12
+CN006
+T015
+1
+Tai co mu ngua
+Viem tai ngoai
+0
+PKB002
+2023-11-11
+CN007
+T022
+1
+Bung to gay
+Nhiem giun san
+0
+PKB003
+2023-11-20
+CN008
+T019
+1
+Ngua sung mat
+Di ung
+0
+PKB004
+2023-12-12
+CN009
+T013
+1
+Dau mat do
+Nhiem trung mat
+0
+PKB005
+2023-12-12
+CN010
+T024
+1
+Tieu chay phan long
+Roi loan tieu hoa
+0
+PKB006
+2024-01-13
+CN011
+T017
+1
+Tai co mu ngua
+Viem tai giua
+0
+PKB007
+2024-01-14
+CN012
+T021
+1
+Da co vay rung long
+Nhiem ghe Demodex
+0
+PKB008
+2024-02-15
+CN013
+T016
+1
+Khap khieng dau khop
+Viem khop
+0
+PKB009
+2024-02-15
+CN014
+T025
+1
+Da co nam ngua
+Nhiem nam da
+0
+PKB010
+2024-03-15
+CN015
+T011
+1
+Lo lang cang thang
+Cang thang
+1
+PKB011
+2025-04-04
+CN014
+T020
+3
+Rung long duoi
+Ghe lo
+0
+PKB012
+2025-01-02
+CN001
+T014
+5
+Sot cao ho
+Cam cum
+0
+PKB013
+2025-01-05
+CN002
+T023
+3
+Dau bung
+Viem da day
+0
+PKB014
+2025-01-07
+CN003
+T018
+2
+Ngua toan than
+Ky sinh trung
+0
+PKB015
+2025-01-10
+CN004
+T012
+10
+Met moi yeu
+Thieu vitamin
+0
+PKB016
+2025-01-15
+CN005
+T015
+4
+Tieu chay
+Nhiem khuan duong ruot
+0
+PKB017
+2025-02-01
+CN006
+T019
+3
+Da do ngua
+Viem da
+0
+PKB018
+2025-02-03
+CN007
+T022
+6
+Sot ho khan
+Cam cum
+0
+PKB019
+2025-02-05
+CN008
+T016
+2
+Ho dai dang
+Viem phe quan
+0
+PKB020
+2025-02-10
+CN009
+T013
+1
+Mat do chay nuoc mat
+Viem ket mac
+0
+PKB021
+2025-02-15
+CN010
+T025
+2
+Tai co mui hoi
+Viem tai
+0
+PKB022
+2025-03-01
+CN011
+T017
+4
+Sot met moi
+Nhiem khuan
+0
+PKB023
+2025-03-03
+CN012
+T021
+3
+Dau khop
+Viem khop
+0
+PKB024
+2025-03-07
+CN013
+T014
+5
+Ngua co vet do
+Ky sinh trung
+0
+PKB025
+2025-03-10
+CN014
+T018
+8
+Yeu bieng an
+Thieu chat dinh duong
+0
+PKB026
+2025-03-15
+CN015
+T011
+3
+Tieu chay mat nuoc
+Nhiem khuan duong tieu hoa
+0
+PKB027
+2025-04-02
+CN016
+T020
+4
+Da boc mui ngua
+Viem da do di ung
+0
+PKB028
+2025-04-05
+CN017
+T023
+5
+Sot cao ho
+Cam cum
+0
+PKB029
+2025-04-07
+CN018
+T012
+2
+Ho kho tho
+Viem duong ho hap
+0
+PKB030
+2025-04-10
+CN019
+T016
+1
+Mat do ghe
+Viem mat
+0
+PKB031
+2025-04-15
+CN020
+T019
+2
+Tai chay mu
+Nhiem trung tai
+0
+PKB032
+2025-05-01
+CN001
+T022
+6
+Sot met moi
+Nhiem khuan toan than
+0
+PKB033
+2025-05-03
+CN002
+T015
+4
+Dau bung bieng an
+Viem da day
+0
+PKB034
+2025-05-07
+CN003
+T013
+3
+Ngua vet do tren da
+Ky sinh trung
+0
+PKB035
+2025-05-10
+CN004
+T017
+7
+Yeu long xop
+Thieu vitamin
+0

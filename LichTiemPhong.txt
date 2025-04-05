@@ -1,0 +1,42 @@
+CN014
+Meo Ai Cap 6 thang tuoi
+2025-04-04
+Vaccine dai
+Kiem tra suc khoe truoc khi tiem
+1
+CN006
+Cho Chihuahua 4 tuoi
+2025-04-05
+Vaccine dai
+Khoe manh truoc khi tiem
+0
+CN007
+Meo Ragdoll 3 tuoi
+2025-04-06
+Vaccine cum
+Kiem tra suc khoe truoc khi tiem
+0
+CN008
+Cho Husky 6 tuoi
+2025-04-07
+Vaccine benh da
+Theo doi sau khi tiem
+0
+CN009
+Meo Munchkin 2 tuoi
+2025-04-08
+Vaccine cum
+Khoe manh truoc khi tiem
+0
+CN014
+Meo Ai Cap 6 thang tuoi
+2025-04-04
+Vaccine cum
+Cao long truoc khi tiem
+1
+CN014
+Cho Samoyed 1 tuoi
+2025-04-20
+Vaccine dai
+Kiem tra truoc khi tiem
+0

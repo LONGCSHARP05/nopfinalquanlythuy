@@ -1,0 +1,96 @@
+T011
+Thuoc nho tai Otibiotic
+Ong
+180000
+Dieu tri viem tai giua va viem tai ngoai do vi khuan va nam o cho meo
+0
+T012
+Thuoc tri ghe Demodex
+Chai
+250000
+Dieu tri ghe Demodex o cho meo
+0
+T013
+Thuoc an than Acepromazine
+Vien
+150000
+Giam cang thang va lo lang cho thu cung trong cac tinh huong cang thang
+0
+T014
+Thuoc tri nam Ketoconazole
+Vien
+200000
+Dieu tri nhiem nam da va nam toan than o cho meo
+0
+T015
+Thuoc tri viem khop Meloxicam
+Vien
+220000
+Giam dau va viem khop o cho meo
+0
+T016
+Thuoc tri tieu chay Kaolin Pectin
+Chai
+120000
+Dieu tri tieu chay cap tinh va man tinh o cho meo
+0
+T017
+Thuoc tri giun san Praziquantel
+Vien
+100000
+Dieu tri nhiem giun san duong ruot o cho meo
+0
+T018
+Thuoc tri di ung Cetirizine
+Vien
+130000
+Giam ngua va cac trieu chung di ung o cho meo
+0
+T019
+Thuoc nho mat Tobramycin
+Lo
+160000
+Dieu tri nhiem trung mat do vi khuan o cho meo
+0
+T020
+Thuoc tri viem da Prednisolone
+Vien
+180000
+Giam viem da va cac trieu chung di ung o cho meo
+0
+T021
+Thuoc bo sung canxi CalciPet
+Vien
+300000
+Bo sung canxi cho cho meo
+0
+T022
+Thuoc tang cuong suc de khang ImmunoBoost
+Chai
+400000
+Tang cuong suc de khang cho thu cung
+0
+T023
+Thuoc bo sung vitamin VitaPet
+Vien
+110000
+Bo sung vitamin cho cho meo
+0
+T024
+Thuoc tri ve ran Fipronil
+Chai
+350000
+Dieu tri ve ran o cho meo
+0
+T025
+Thuoc giam dau Tramadol
+Vien
+200000
+Giam dau cho thu cung
+0
+T002
+Thuoc giam dau Hoa Ky
+Vien
+200000
+Giam dau dau
+1
